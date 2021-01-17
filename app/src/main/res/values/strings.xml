@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Homer</string>
+    <string name="title_activity_splash">Smart Homer</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="activity_image_trans">home image transision</string>
+</resources>

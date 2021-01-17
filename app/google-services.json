@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934317255074",
+    "project_id": "smart-homer-1db0e",
+    "storage_bucket": "smart-homer-1db0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934317255074:android:94f9e74fa7be844e43aafb",
+        "android_client_info": {
+          "package_name": "com.k.smarthomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934317255074-a85qgun265k0vqksb5vaie8f17fn9d7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyX88ZuZ6_KrI2SqFLnWFe5e0-3L4IKNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934317255074-a85qgun265k0vqksb5vaie8f17fn9d7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
